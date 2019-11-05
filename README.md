@@ -1,1 +1,1 @@
-# data-structures-interview-practice
+# data-structures
