@@ -33,6 +33,7 @@ public class InsertionAndSearchAndDeleteionInBST {
     System.out.println(isPresent);
   }
 
+  //this implementation is wrong
   private static boolean delete(Node root, int element) {
     if (root == null) {
       return false;
