@@ -1,6 +1,6 @@
 package linkedlist;
 
-// Use three pointers current and next in first LL and top pointer in second LL
+// Use three pointers current and nextOne in first LL and top pointer in second LL
 public class ReverseLL {
   Node head;
 

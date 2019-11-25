@@ -1,6 +1,6 @@
 package linkedlist;
 
-// copy next node data into this current node and delete next node
+// copy nextOne node data into this current node and delete nextOne node
 public class DeleteNodeWithReferenceToOnlyThatNode {
   Node head;
 

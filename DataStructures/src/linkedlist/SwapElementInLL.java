@@ -32,8 +32,8 @@ public class SwapElementInLL {
     System.out.println();
   }
 
-  // find both element previous nodes and current nodes then first sahi kar previous nodes to next
-  // node wala pointer for both elements and then sahi next wala pointer swap kar de thir variable
+  // find both element previous nodes and current nodes then first sahi kar previous nodes to nextOne
+  // node wala pointer for both elements and then sahi nextOne wala pointer swap kar de thir variable
   // ki help se
   private static void swap(Node head, int firstElement, int secondElement) {
     Node firstElePrevNode = null;

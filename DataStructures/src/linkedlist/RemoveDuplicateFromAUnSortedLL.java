@@ -48,15 +48,15 @@ public class RemoveDuplicateFromAUnSortedLL {
   }
   //  public static void removeDuplicate(Node head) {
   //    while (head != null) {
-  //      Node secondNode = head.next;
+  //      Node secondNode = head.nextOne;
   //      while (secondNode != null) {
   //        if(head.data == secondNode.data){
-  //          Node nextOfSecondNode = secondNode.next;
-  //          head.next = nextOfSecondNode;
+  //          Node nextOfSecondNode = secondNode.nextOne;
+  //          head.nextOne = nextOfSecondNode;
   //        }
-  //        secondNode = secondNode.next;
+  //        secondNode = secondNode.nextOne;
   //      }
-  //      head = head.next;
+  //      head = head.nextOne;
   //    }
   //  }
 }
