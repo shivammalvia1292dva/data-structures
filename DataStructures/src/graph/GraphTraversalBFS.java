@@ -9,6 +9,8 @@ public class GraphTraversalBFS {
 
   static class Graph {
     int vertex;
+    // is is basically an array of linked lists which are not yet initialized....once the are
+    // initialized they can contain only Integer
     LinkedList<Integer>[] adjList;
 
     Graph(int v1) {

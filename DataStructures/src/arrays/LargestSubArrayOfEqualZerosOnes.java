@@ -3,7 +3,7 @@ package arrays;
 // treat 0 as -1 and 1 as 1 so keep on adding it it till the last time you get sum = 0
 public class LargestSubArrayOfEqualZerosOnes {
   public static void main(String[] args) {
-    int arr[] = {0, 0, 0, 1, 1, 1, 0, 1, 1};
+    int arr[] = {0, 0, 0, 0, 1, 1, 0, 1, 1};
     process(arr);
     System.out.println();
   }
