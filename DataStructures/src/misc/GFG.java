@@ -1,6 +1,6 @@
 package misc;
 
-class GFG {
+class FindAwordIn2DMatrixUsingDFS {
 
   public static boolean exist(char[][] board, String word) {
     int m = board.length;
